@@ -1,4 +1,4 @@
-# Lesson/Hw Title
+# Lesson / Lab Title
 
 
 ![Image Header](https://en.blog.symbaloo.com/wp-content/uploads/sites/2/LPW_BlogHeader.png)
