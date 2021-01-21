@@ -11,6 +11,7 @@ This is the lesson overview.
   - Goal 1
   - Goal 2
   - Goal 3
+  
 ## What You'll Be Building (If Needed)
 ![End Product](https://www.mailerlite.com/assets/features/landing-page-signup.gif)
 
